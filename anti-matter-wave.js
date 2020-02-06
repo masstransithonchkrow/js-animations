@@ -1,4 +1,5 @@
-/*Anti-Matter Wave JS Animation by The Mass Transit Honchkrow*/
+/*Anti-Matter Wave JS Animation by The Mass Transit Honchkrow
+Find it here: https://www.khanacademy.org/computer-programming/anti-matter-wave/6754467123838976*/
 
 /*Between December 15, 2019 and January 15, 2020, the Arrowverse
 held a Five-Part event called "Crisis On Infinite Earths."
