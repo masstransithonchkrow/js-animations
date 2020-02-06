@@ -1,4 +1,5 @@
-/*Curtain Call Animation from Khan Academy by The Mass Transit Honchkrow*/
+/*Curtain Call Animation from Khan Academy by The Mass Transit Honchkrow
+Find the project here: https://www.khanacademy.org/computer-programming/curtain-call/5511067464646656*/
 
 /*Begin code*/
 
